@@ -1,5 +1,7 @@
 # CARD: Classification and Regression Diffusion Models
 
+*These codes are retrieved from the paper. The reformulated code is still on uploading process. Only a glimpe of the output is added so far. -Ishtiaque*
+
 This repo contains the official implementation for the paper [CARD: Classification and Regression Diffusion Models](https://arxiv.org/pdf/2206.07275.pdf) by [Xizewen Han](https://www.linkedin.com/in/xizewenhan/), [Huangjie Zheng](https://huangjiezheng.com/), and [Mingyuan Zhou](https://mingyuanzhou.github.io/). Published in NeurIPS 2022 (poster).
 
 --------------------
